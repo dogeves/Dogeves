@@ -23,5 +23,4 @@ https://t.me/dogeves
 https://dev.pywaves.org/assets/6jPTKe9vBGs9nc999QkSYc6uERuZiaFJQ7UXwQ2jQmS4
 
 
-DOGEVES?
-Simple. Fast. Cheap. Easy.
+# Simple. Fast. Cheap. Easy.
